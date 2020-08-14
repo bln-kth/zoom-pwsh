@@ -1,13 +1,13 @@
 # usage-report
-bla bla, ej klart
+Show usage report of current year and month.
 
 ### api url
 * US = `api.zoom.us`
 * EU = `eu01web.zoom.us`
 
 ## To run
-Install/Download PowerShell: https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell
+* Install/Download PowerShell: https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell
 * Install deps:
 `Install-Module PSZoom`
 * Run the script:
-`test-authorization.ps1` and enter a valid Zoom username.
+`usage-report.ps1`
