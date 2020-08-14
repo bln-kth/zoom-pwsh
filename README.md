@@ -15,7 +15,7 @@ https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powersh
 * Install deps:
 `Install-Module PSZoom` more info at https://github.com/JosephMcEvoy/PSZoom
 * Run the script:
-`?????????`
+`test-authorization.ps1`
 
 ### Info
 >This is Open Source and it´s free to use or change.\
