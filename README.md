@@ -7,14 +7,13 @@ This is api scripts for Zoom, using PowerShell
 * US = `api.zoom.us`
 * EU = `eu01web.zoom.us`
 
-## Create JWT
-........ 
+## Create Authorization Bearer
+On Zoom Marketplace create a JWT App
+Edit secret.ps1 and paste API key and secret from your Zoom JWT App 
 
-## Test JWT
-* Install/Download python:
-https://www.python.org/downloads/
-* Install/Download pip
-https://pip.pypa.io/en/stable/installing/
+## Test Authorization
+* Install/Download PowerShell:
+https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell
 * Install deps:
 `pip install pyjwt` more info at https://pypi.org/project/PyJWT/
 * Run the script:
