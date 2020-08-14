@@ -1,5 +1,3 @@
-# Under test
-
 # zoom-pwsh
 This is api scripts for Zoom, using PowerShell
 
