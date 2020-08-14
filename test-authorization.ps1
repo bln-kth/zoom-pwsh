@@ -3,3 +3,4 @@ import-module PSZoom
 Write-Host "$api_key $api_sec"
 $Global:ZoomApiKey    = $api_key  
 $Global:ZoomApiSecret = $api_sec
+Get-ZoomUser
