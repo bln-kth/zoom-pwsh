@@ -1,2 +1,2 @@
-$foo = "blarg"
-$bar = "other blarg"
+$api_key = ""
+$api_sec = ""
